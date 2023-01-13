@@ -24,5 +24,6 @@ https://youtube.com/shorts/ZLqL8G-TDak
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
   
 ## Autores
-Álvaro Martínez Martínez y Marina Villanueva Pelayo
+Álvaro Martínez Martínez y Marina Villanueva Pelayo.
+
 Universidad de Alicante 2023

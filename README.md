@@ -19,7 +19,7 @@ https://youtube.com/shorts/ZLqL8G-TDak
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
   
 ## Nodos de ROS
-	detect.py: Este nodo lee la información que detecta la cámara. Cuando la cámara detecta el color azul, publica en el topic /topic_posicion los mensajes con la información de la región de interés.
+	```detect.py```: Este nodo lee la información que detecta la cámara. Cuando la cámara detecta el color azul, publica en el topic /topic_posicion los mensajes con la información de la región de interés.
 	
 	follow.py: Este nodo está suscrito al sensor láser para que el robot pueda moverse, al bumper para detectar si el humano ha ganado punto, y a la cámara para saber donde está el humano. Inicialmente va deambulando hasta que el otro nodo le envía la información de que se ha detectado una zona de color azul. Es entonces cuando cambia su rumbo a esa dirección.
 
